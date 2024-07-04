@@ -1,6 +1,6 @@
 # BondPySQL
 
-BondPySQL is a playful repository designed to make learning Python and SQL an engaging and fun experience. Here, you'll explore the world of relationships and digital interactions through the lens of SQL queries. Data manipulation doesn't have to be a serious chore. By injecting a lighthearted theme of past loves and connections, BondPySQL aims to make the learning process enjoyable and memorable.
+BondPySQL is a playful repository designed to make learning Python and SQL an engaging and fun experience. Here, you'll explore the world of relationships and digital connections through the lens of SQL queries. Data manipulation doesn't have to be a serious chore.
 
 ## Contributing
 
