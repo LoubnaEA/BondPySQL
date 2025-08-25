@@ -28,12 +28,12 @@ ORDER BY kindness DESC;
 ---
 
 ## Table of Contents, *The Map of Love in SQL*    
-### 💘 *First dates with Databases*
+### [💘 *First dates with Databases*](https://github.com/LoubnaEA/BondPySQL/wiki/%F0%9F%92%98-First-dates-with-Databases)
 1.1 💎 ***Laying the foundation for a strong relationship***  
 1.2 💎 ***Finding the one that fits your style*** **(Types of DBs)**  
 1.3 💎 **DBMS,** ***Your Data’s matchmaker***    
 
-### [💘 ER Model & Relationships ](https://github.com/LoubnaEA/BondPySQL/wiki/%F0%9F%92%98-ER-Model-&-Relationships) 
+### [💘 ER Model & Relationships](https://github.com/LoubnaEA/BondPySQL/wiki/%F0%9F%92%98-ER-Model-&-Relationships) 
 2.1 💎 **Tables, Rows and Columns**  
 2.2 💎 **Primary & Foreign Keys,** ***The one & only***    
 2.3 💎 **Integrity Constraints,** ***Rules of engagement***  
