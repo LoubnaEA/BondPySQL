@@ -41,7 +41,7 @@ ORDER BY kindness DESC;
 2.5 💎 **Attributes, Relationships & more,** ***The little things that matter***  
  
 ### [💘 SQL *love* Language](https://github.com/LoubnaEA/BondPySQL/wiki/%F0%9F%92%98-SQL-love-Language)
-3.1 💎 **Introduction and History**  
+3.1 💎 **Introduction**  
 3.2 💎 **DDL (Data Definition Language),** ***Setting up the stage***   
 3.3 💎 **DML (Data Manipulation Language),** ***Flirting with data*** 🚬🍷     
 3.4 💎 **DCL (Data Control Language) & TCL (Transaction Control Language),** ***Managing permissions & promises***   
