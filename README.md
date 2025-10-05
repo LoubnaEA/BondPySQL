@@ -1,18 +1,17 @@
-# 💘 BondPySQL
-BondPySQL is a playful repository designed to make learning **Python** and **SQL** engaging and fun.  
+# 💘 BondPySQL (part 1 : SQL)
+A playful repository designed to make learning **Python** and **SQL** engaging and fun.  
 Explore relationships and digital connections through SQL queries, focusing on understanding core concepts.
 
 ---
 
-## Databases & Relationships
-Welcome to a world where **Entity-Relationship modeling** meets the complexities of love !
-This project offers a clear introduction to cardinalities, keys, constraints and more. All through the lens of romance.
+## Databases & Relationships Modeling
+An introduction to **Entity-Relationship modeling** : cardinalities, keys, constraints and more. All through the lens of romance.  
+Practical examples make complex concepts easy to understand.
 
-Think of this README as a ***love at first sight*** moment : a quick, charming overview to spark your interest.  
-For a deeper dive (complete with diagrams, extended examples, analogies), head over to the **Wiki**, a go-to resource for a more detailed exploration.
+For the deeper dive, check out the **Wiki**.
 
 
-### 2.5 💎 **Attributes, Relationships & More,** ***The little things that matter***  
+### 2.5 💎 **Attributes, Relationships & more,** ***The little things that matter***  
  🔹 **Attributes**, every entity has attributes : `eye_color`, `humor`, `height`, `income`, ...  
 Querying feelings like :  
 ```sql
@@ -23,7 +22,6 @@ AND height >= 180
 AND eye_color = 'green'
 ORDER BY kindness DESC;
 ````
-
 
 ---
 
@@ -90,10 +88,10 @@ ORDER BY kindness DESC;
   
 
 ## Contributing
-Got cool SQL snippets, useful resources, ideas to make BondPySQL even better ?  
-Feel free to fork, tweak and send us a pull request.  
+Got useful SQL snippets, resources or ideas to improve BondPySQL ?  
+Feel free to fork the repo, make changes and submit a pull request.  
 
-**We’d love to hear from you !** 🫶
+**Community contributions are welcome.** 🫶
 
 
 ## Resources
