@@ -25,7 +25,6 @@ AND eye_color = 'green'
 ORDER BY kindness DESC;
 ````
 
----
 
 ## Table of Contents, *The Map of Love in SQL*    
 ### [💘 *First dates with Databases*](https://github.com/LoubnaEA/BondPySQL/wiki/%F0%9F%92%98-First-dates-with-Databases)
