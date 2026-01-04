@@ -28,7 +28,7 @@ ORDER BY kindness DESC;
 ## Pedagogical Progression, *From First Dates to Real Relationships*  
 **`💘 BondPySQL`** follows a step-by-step learning journey, designed to mirror how SQL is learned and used in real-world systems.
 
-### 👆 SQL Fundamentals (Query-Centric Learning)  
+### 👆 SQL Fundamentals (query-centric learning)  
 
 The first SQL files focus on isolated, playful queries, each illustrating a specific SQL concept :  
 - SELECT, INSERT, UPDATE, DELETE  
@@ -37,7 +37,7 @@ The first SQL files focus on isolated, playful queries, each illustrating a spec
 
 🏹 Mastering SQL syntax and logic while minimizing cognitive load.    
 
-### ✌️ Application Scenario (Data-Model–Centric Learning)  
+### ✌️ Application Scenario (data-model–centric learning)  
 
 A second set of files reuses the same ideas and queries, but this time within :  
 a global data model, clearly defined entities, primary & foreign keys, realistic relationships, meaningful JOINs.   
