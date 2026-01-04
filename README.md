@@ -32,9 +32,9 @@ ORDER BY kindness DESC;
 **👆 SQL Fundamentals (Query-Centric Learning)**  
 
 The first SQL files focus on isolated, playful queries, each illustrating a specific SQL concept :  
-SELECT, INSERT, UPDATE, DELETE  
-GROUP BY, HAVING, ORDER BY  
-CASE, WINDOW FUNCTIONS, UNION, etc.  
+- SELECT, INSERT, UPDATE, DELETE  
+- GROUP BY, HAVING, ORDER BY  
+- CASE, WINDOW FUNCTIONS, UNION, etc.  
 
 🏹 Mastering SQL syntax and logic while minimizing cognitive load.    
 
