@@ -37,7 +37,7 @@ The first SQL files focus on isolated, playful queries, each illustrating a spec
 
 🏹 Mastering SQL syntax and logic while minimizing cognitive load.    
 
-### ✌️ Application Scenario (data-model–centric learning)  
+### ✌️ Application Scenario (data-model-centric learning)  
 
 A second set of files reuses the same ideas and queries, but this time within :  
 a global data model, clearly defined entities, primary & foreign keys, realistic relationships, meaningful JOINs.   
