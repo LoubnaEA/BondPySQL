@@ -1,5 +1,5 @@
-# 💘 BondPySQL  
-A repository designed to make learning **Python** and **SQL** engaging and accessible.  
+# BondPySQL  
+**`💘 BondPySQL`** is designed to make learning **Python** and **SQL** engaging and accessible.  
 Relationships and digital connections through SQL queries, focusing on understanding core concepts.
 
 Part 1 : SQL
@@ -29,7 +29,7 @@ ORDER BY kindness DESC;
 ## Pedagogical Progression, *From First Dates to Real Relationships*  
 **`💘 BondPySQL`** follows a step-by-step learning journey, designed to mirror how SQL is learned and used in real-world systems.
 
-**👆 SQL Fundamentals (Query-Centric Learning)**  
+### 👆 SQL Fundamentals (Query-Centric Learning)  
 
 The first SQL files focus on isolated, playful queries, each illustrating a specific SQL concept :  
 - SELECT, INSERT, UPDATE, DELETE  
@@ -38,7 +38,7 @@ The first SQL files focus on isolated, playful queries, each illustrating a spec
 
 🏹 Mastering SQL syntax and logic while minimizing cognitive load.    
 
-**✌️ Application Scenario (Data-Model–Centric Learning)**  
+### ✌️ Application Scenario (Data-Model–Centric Learning)  
 
 A second set of files reuses the same ideas and queries, but this time within :  
 a global data model, clearly defined entities, primary & foreign keys, realistic relationships, meaningful JOINs.   
@@ -48,11 +48,19 @@ real databases, production systems, QA, Data or BI contexts.
 
 🏹 Moving from writing SQL to thinking in data models and business logic.     
 
-**🤗 Why this approach ?**  
+### 🤗 Why this approach ?  
 
 Many SQL tutorials jump directly into complex schemas.  
 **`💘 BondPySQL`** deliberately separates learning syntax from understanding systems.  
 This progression builds confidence first, then bridges the gap to real-world structures and professional-grade reasoning.
+
+## Structure
+
+├─ 📁 docs/ → Documentation, guides, notes  
+├─ 📁 schema/ → ER diagrams, data model visuals   
+├─ 📁 sql/ → SQL scripts  
+├─ 📁 tests/ → Test scripts, sample queries  
+└─ README.md  
 
 
 ## Table of Contents, *The Map of Love in SQL*    
