@@ -1,6 +1,5 @@
 # BondPySQL  
 **`💘 BondPySQL`** is designed to make learning **Python** and **SQL** engaging and accessible.  
-Relationships and digital connections through SQL queries, focusing on understanding core concepts.
 
 Part 1 : SQL
 
